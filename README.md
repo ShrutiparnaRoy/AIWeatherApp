@@ -1,1 +1,3 @@
-# AIWeatherApp
+# AI Weather App
+This weather app goes beyond simple forecasts, offering a personalized experience built with HTML, CSS, and JavaScript. It provides real-time weather updates for your location, displaying temperature, conditions, and humidity. The standout feature is an integrated AI chatbot. Based on the current weather, this intelligent assistant suggests suitable activities, from cozy indoor hobbies on a rainy day to outdoor adventures when it's sunny. It also recommends delicious food and drink pairings, ensuring you're always prepared and comfortable, no matter the climate.
+Live Link : https://aiweather-8f594.web.app
